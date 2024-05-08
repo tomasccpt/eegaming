@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 env/
-=======
 /dataset
->>>>>>> e21067f5b5456f19705fbcd7d1e77ab85402aa64
+/venv
+.gitignore
