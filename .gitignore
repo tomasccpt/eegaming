@@ -3,3 +3,4 @@ env/
 /dataset
 /venv
 .gitignore
+/data
