@@ -33,10 +33,10 @@ To set up and start using this project, please follow the steps below:
     ```
 
 3. **Download Datasets**:
-    The clinical dataset used can be found at https://physionet.org/content/eegmmidb/1.0.0/
-    Our collected dataset was uploaded to kaggle, and can be found at https://www.kaggle.com/datasets/miguelrcborges/motor-imagery-dataset
+    - The clinical dataset used can be found at https://physionet.org/content/eegmmidb/1.0.0/
+    - Our collected dataset was uploaded to kaggle, and can be found at https://www.kaggle.com/datasets/miguelrcborges/motor-imagery-dataset. Download it and place it in a folder in the root called "data"
 
-4. **Process collected dataset with the scripts in /process_collected**
+4. **Process collected dataset with the scripts in /process_collected/complete.ipynb**
 
 5. **Run real_time.py using the installed dependecies**
 
