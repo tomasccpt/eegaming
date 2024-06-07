@@ -1,6 +1,6 @@
 # EEGaming
 
-Welcome to the EEGaming repository, a research-based project designed to explore the intersection of electroencephodelic (EEG) data collection and gaming. This project facilitates the acquisition, processing, and application of EEG data in real-time simulations, leveraging machine learning models for classification within the scope of a custom-built game environment.
+EEGaming is an project where we aimed to build a Brain-Computer Interface (BCI) technology using motor imagery to interact with video games. We designed a system capable of recognizing four distinct motor imagery actions—each mapped to a corresponding directional input in the game, such as left, right, up, and down. This project not only utilized custom data collected with the OpenBCI platform but also used a public clinical dataset comprising more than 100 subjects to enhance the robustness and accuracy of our methods. We created a pipeline that builds a personalized model for each subject, and uses a linear classifier on SWDCSP filtered data.
 
 ## Repository Structure
 
